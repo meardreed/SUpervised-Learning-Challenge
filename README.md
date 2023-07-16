@@ -2,7 +2,7 @@
 
 An overview of the analysis: 
 
-We are using various logistic regression to train and evaluate a model based on loan risk. We are analyzing a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers where 0 is a healthy loan and 1 is a risky loan. We split the data into 75% training data and 25% testing data with a random state of 1.
+We are using logistic regression to train and evaluate a model based on loan risk. We are analyzing a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers where 0 is a healthy loan and 1 is a risky loan. We split the data into 75% training data and 25% testing data with a random state of 1.
 
 The results:
 
