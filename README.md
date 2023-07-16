@@ -1,4 +1,4 @@
-# Supervised-Learning-Challenge
+# Supervised Machine Learning Challenge
 
 An overview of the analysis: 
 
