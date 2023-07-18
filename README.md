@@ -14,5 +14,6 @@ The logistic regression model, fit with oversampled data retained the level of p
 We are noticing overall improvement on the results for the risky loans. However, the precision level lost 1 point at 84%. The recall is at 99% and f1-score at 91% which increased from previous fit.
 
 **A summary:** 
+
 I would recommend the use of this model to predict healthy and risky loans, mainly because it has 100% precision for healthy loans. Recall is at 99% which is another factor to determine if the model is useful as it catches false healthy loans accurately. 
 Although the precision score is lower for risky loans, at 85%, which means we might lose 15% in healthy loans. And recall is at 91% for risky loans, which means we are misjudging 9% of what could be healthy loans. I'd rather lose 9-15% of potential good borrowers than lend to risky borrowers and have them default on their loans. However, this all depends on the business volume, and this creates room for an improved model.
